@@ -1,5 +1,5 @@
 - 👋 Hi, I’m maysam samavaty
-i Live in dump iran, interested in learning special English , Deutsch maybe in featue french.I wish i can speak English fluently one day.
+i Live in dump iran, interested in learning English , Deutsch maybe in future french.I wish i could speak English fluently one day.
 - 👀 I’m interested in bunch of technology but i prefere java 
 - 🌱 I’m currently learning java,spring,Spring boot, Docker ,Devops
 - 💞️ I’m looking to collaborate on any project that cover my interests
