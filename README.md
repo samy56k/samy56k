@@ -1,10 +1,11 @@
-- 👋 Hi, I’m maysam samavaty
-i Live in dump iran, interested in learning English , Deutsch maybe in future french.I wish i could speak English fluently one day.
-- 👀 I’m interested in bunch of technology but i prefere java 
-- 🌱 I’m currently learning java,spring,Spring boot, Docker ,Devops
-- 💞️ I’m looking to collaborate on any project that cover my interests
-- 📫 you can reach me with these ways : 
+ Hello, welcome to my profile, I’m maysam samavaty
+ I have been a Software Engineer for almost 14 years.
+- 🌱 I’m currently working as a database designer and SQL developer
+  and personally developing skills in Java, Spring, Spring boot.
+- 💞️ I’m looking to collaborate on any project that covers my interests.
+- 📫 you can reach me in these ways :
 email : maysamavaty@gmail.com
+https://www.linkedin.com/in/maysamavaty/
 phone : +9809371994937
 whatsup and telegram : +9809371994937
 instagram : maysamavaty
