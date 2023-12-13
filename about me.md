@@ -5,7 +5,7 @@
 - 💞️ I’m looking to collaborate on any project that covers my interests.
 - 📫 you can reach me in these ways :
 -email : maysamavaty@gmail.com
--https://www.linkedin.com/in/maysamavaty/
+-linkedin : https://www.linkedin.com/in/maysamavaty/
 -phone : +9809371994937
 -whatsup and telegram : +9809371994937
 -instagram : maysamavaty
